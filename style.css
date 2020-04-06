@@ -1,0 +1,86 @@
+*{margin:0;padding:0;}
+body{font-family:arial; font-size:15px; line-height:25px; color:#333;}
+h1,h2,h3,h4,h5,h6{font-family: arial black;}
+
+
+div#all_blocks {
+    width: 1170px;
+    margin: auto;
+    /* background: black; */
+    margin: 41px;
+    }
+
+#service-section{background: #235092;}
+
+section{padding: 38px;}
+
+	
+#section_title{    
+	
+    font-size: 30px;
+    margin-bottom: 26px;}
+
+
+#service-section #section_title{    
+	
+	color: white;
+    font-size: 30px;
+    margin-bottom: 26px;}
+	
+
+	
+div#section_title h1 span {
+    color: orange;
+}
+#section_title_text{text-align:center;}
+
+
+
+
+#service_block {
+        background: #fffffff2;
+        color: black;
+        width: 320px;
+        padding: 17px;
+        overflow: hidden;
+        display:inline-block;
+        border: solid #efe3e3;
+        border-radius: 6px;
+        margin: 10px;
+}
+
+#service_block:hover{background:transparent;
+					color:white; 
+					cursor:pointer; 
+					transition:all 0.50s;
+					transform:translateY(-10px);}
+
+#about_us #service_block:hover {
+    background: #235092;
+    color: white;
+    cursor: pointer;
+    transition: all 0.50s;
+    transform: translateY(-10px);
+}
+
+
+#left-icon{     width: 70px;
+				font-size: 50px;
+				float-left: 10px;
+				margin-top: 34px;
+				color: orange;
+
+}
+#right-content{width:250px;
+				float:right;
+}
+				
+#left-icon,#right-content{display:inline-block;}
+#right-content h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+#right-content p {
+    font-size: 13px;
+    margin-bottom: 10px;
+}
