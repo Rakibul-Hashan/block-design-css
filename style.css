@@ -108,6 +108,7 @@ div#about_Right {
     float: right;
     font-size: 16px;
     font-family: arial;
+    text-align: justify;
 }
 
 div#about_image, div#about_Right {display: inline-block;}
