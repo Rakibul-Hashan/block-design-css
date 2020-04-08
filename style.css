@@ -117,12 +117,13 @@ div#about_image, div#about_Right {display: inline-block;}
 
 div#about_Right p {
     color: #888;
+	text-align: justify;
 }
 div#about_Right h2 {
     border-bottom: 2px solid #d8d8d8;
     margin-bottom: 30px;
     padding-bottom: 20px;
-	    text-align: justify;
+	
 }
 footer {
     background: #333;
